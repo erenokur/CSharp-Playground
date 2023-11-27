@@ -1,6 +1,6 @@
-## Hacker Rank Problem Solution Repository
+## C# Problem Solution Repository
 
-This repository contains the solution of the problems in Hacker Rank. The solutions are written in C#.
+This repository contains the solution of the problems in C#.
 
 ## Running the solutions
 
