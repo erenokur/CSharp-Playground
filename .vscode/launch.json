@@ -9,10 +9,9 @@
       "type": "coreclr",
       "request": "launch",
       "program": "C:/Users/Asus_EliTe/.dotnet/tools/dotnet-script.exe",
-      "args": ["PickingNumbers.csx"],
+      "args": ["codes/divisibleSumPairs.csx"],
       "cwd": "${workspaceRoot}",
       "preLaunchTask": "",
-      "runtimeExecutable": null,
       "env": {},
       "externalConsole": false
     }
