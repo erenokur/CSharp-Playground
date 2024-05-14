@@ -9,7 +9,7 @@
       "type": "coreclr",
       "request": "launch",
       "program": "C:/Users/Asus_EliTe/.dotnet/tools/dotnet-script.exe",
-      "args": ["codes/divisibleSumPairs.csx"],
+      "args": ["codes/GetUserWithID.csx"],
       "cwd": "${workspaceRoot}",
       "preLaunchTask": "",
       "env": {},
